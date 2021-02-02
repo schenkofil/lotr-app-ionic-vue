@@ -1,0 +1,7 @@
+{
+  "name": "lotr-app-ionic-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
